@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
 *
 {
     margin: 0;
@@ -46,5 +46,5 @@ h2:hover span
                  0 0 40px #fff,
                  0 0 80px #fff,
                  0 0 120px #fff,
-                 0 0 160px #fff,
+                 0 0 160px #fff;
 }
